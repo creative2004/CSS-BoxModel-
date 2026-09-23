@@ -1,0 +1,48 @@
+.artwork{
+   width: 600px;
+    height: 600px;
+    background-color: #f9b900;
+    border: 5px solid rgb(129, 56, 4);
+
+    margin: 40px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 1st inner box*/
+
+.box-one{
+    width: 520px;
+    height: 520px;
+    background-color: #febe56;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/* 2nd inner box*/
+
+.box-two{
+    width: 390px;
+    height: 390px;
+    background-color: #ed9d68;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 3rd inner box*/
+
+.box-three{
+    width: 250px;
+    height: 250px;
+    background-color: #f67c19;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
